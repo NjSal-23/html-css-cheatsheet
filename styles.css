@@ -11,7 +11,7 @@ h2 {
     color: purple;
 }
 table {
-    outline: 2px solid purple;
+   
     margin: 0 auto;
 }
 
@@ -26,4 +26,8 @@ td {
 
 .code {
     background-color: rgb(255, 255, 153)
+}
+
+.box {
+    box-shadow: 2px 2px 2px rgb(0, 0, 0, 0.7), -2px 0px 2px rgb(0, 0, 0, 0.7);
 }
